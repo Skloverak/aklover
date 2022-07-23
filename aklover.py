@@ -411,13 +411,13 @@ logo = ("""\033[1;32m
                                             \033
 __________________×______________________
   
-  Owner   :  Akash Islam
+  Owner   :  HADI ANHAF [🥰setu]
  
   Github   :  akash_lover
 
   Facebook : Hadi Anhaf
   
-  Youtube : Akash Technology
+  Youtube : BD AKASH YT - TERMUX TEACH 
   
   Contact : +8801721474011
 __________________×______________________\033[1;37m""")
